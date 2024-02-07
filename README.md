@@ -1,2 +1,4 @@
-# TypescriptCrud
-Development in Typescript using data memory and bootstrap with Visual Code
+# ES6 Crud
+CRUD using ES6 syntax
+
+to run: npm i && npm run devserver
